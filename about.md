@@ -33,7 +33,7 @@ Points to the problems of the world and offers a solution, unheard of by most.
 ---
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[reachthewholeworld@gmail.com](mailto:reachthewholeworld@gmail.com)
 
 ---
 

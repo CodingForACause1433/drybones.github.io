@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Worldcoin, the solution of the future?
+title:  Worldcoin - the solution of the future?
 ---
 
 <!--
@@ -182,7 +182,7 @@ If you choose the latter please stay in touch and write to us if you want. We'd 
 
 </pre>
 
-Email: 
+Email: reachthewholeworld@gmail.com
 
 ---
 

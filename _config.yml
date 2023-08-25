@@ -16,20 +16,20 @@ darkavatar: /assets/images/dark_bauhaus_logo.png
 
 # A short description (e.g., A blog dedicated to reviewing cat gifs), used as part of the title tag like Ben's Awesome Site | A blog dedicated to reviewing cat gifs instead of Ben's Awesome Site | Long description about a blog dedicated to reviewing cat gifs that would be used when page.title is not defined.
 
-tagline: ...they came to life and stood up on their feet—a vast army. 
+tagline: ...they came to life and stood up on their feet -- a vast army. 
 
 # A longer description used for the description meta tag. Also used as fallback for pages that don't provide their own description, and also as part of the page's title tag if neither page.title nor site.tagline has been defined.
 
 description: Points to the problems of the world and offer a solution unheard of by most.
 
 # The full URL to your site. Note: site.github.url will be used by default.
-url:
+url: https://drybones37.github.io./
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+# baseurl: ""
 
 # global author information
 author: Ezekiel  
@@ -38,7 +38,7 @@ author: Ezekiel
 logo: /assets/images/light_bauhaus_logo.png
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: G-L632LHVS6L
 
 permalink: /:year/:month/:day/:title/
 
