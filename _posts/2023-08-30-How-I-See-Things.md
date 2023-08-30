@@ -1,5 +1,7 @@
-
-# How I Understand Things - A Ramble
+---
+layout: post
+title: How I Understand Things - A Ramble
+---
 
 Hello, person. It seemed appropriate to me to write something about how I understand life, its purpose, and our reasons for existence. Not to say that you need to think like me, but I guess to share so you know where I'm coming from. Take what you like and throw away what you don't, but I hope that some of this helps you.
 
