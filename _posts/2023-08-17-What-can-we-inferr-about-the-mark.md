@@ -199,12 +199,12 @@ that's for another article.
 #### Conclusion
 
 In sum, I personally believe that the mark will come about and have these characteristics:
-	* You won't be able to buy or sell if you don't have the mark.
-	* It will be a mark in the right hand or forehead.
-	* It will be a form of computer technology.
-	* It will be tied to a person's biometric data.
-	* It will operate on block chain technology.
-	* In order to buy and sell on the mark system the system will first need your biometric data.
+* You won't be able to buy or sell if you don't have the mark.
+* It will be a mark in the right hand or forehead.
+* It will be a form of computer technology.
+* It will be tied to a person's biometric data.
+* It will operate on block chain technology.
+* In order to buy and sell on the mark system the system will first need your biometric data.
 
 Now, regardless of how many of these characteristics I've
 shared are certain, there is ONE characteristic of the mark that
