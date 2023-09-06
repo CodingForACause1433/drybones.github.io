@@ -38,16 +38,16 @@ One way or another, they say, a world biometric proof of personhood, a “World 
 <pre>
 </pre>
 
----
 <pre>
+
 </pre>
 
 <blockquote style="text-align: center;">“Something like World ID will need to happen,”
 </blockquote>
 <cite style="text-align: right; display: block;"><a href="https://www.coindesk.com/consensus-magazine/2023/07/24/the-untold-story-of-worldcoins-launch-inside-the-orb/" target="_blank"> Alex Blania - Co-founder of Worldcoin</a></cite>
 
----
 <pre>
+
 </pre>
 
 ##### WORLDCOIN'S SIMILARITIES TO THE MARK  
@@ -61,10 +61,24 @@ Those behind Worldcoin think they're helping humanity, but if any of you are fam
 
 ###### Revelation: 13:16-17:
 "It caused ALL people, great and small, rich and poor, free and slave, to receive a mark on their right hand or on their forehead, so that they could not buy or sell unless they had the mark, which is the name of the beast or the number of its name."
+<cite><a href="https://www.biblegateway.com/passage/?search=Revelation+13%3A16-17&version=KJV" target="_blank"> Revelation 13:16-17 </a></cite>
+
 <pre>
 </pre>
 
-Worldcoin is laying down the groundwork for a global financial system that seems like it could eventually lead to just that! Read their mission statement, "The mission of the Worldcoin project is to build the world’s largest identity AND financial network as a public utility, giving ownership to EVERYONE." -  <cite><a href="https://whitepaper.worldcoin.org/tokenomics" target="_blank">Worldcoin</a></cite>
+Worldcoin is laying down the groundwork for a global financial system that seems like it could eventually lead to just that! Read their mission statement, 
+
+<pre>
+
+</pre>
+
+<blockquote style="text-align: center;">“Something like World ID will need to happen,”
+"The mission of the Worldcoin project is to build the world’s largest identity AND financial network as a public utility, giving ownership to EVERYONE." </blockquote>
+<cite style="text-align: right; display: block;"><a href="https://whitepaper.worldcoin.org/tokenomics" target="_blank">Worldcoin</a></cite>
+
+<pre>
+
+</pre>
 
 In other words, it's supposed to be a global financial AND identity system for ALL, that you can ONLY use if you allow your eyeballs to be scanned.
 
@@ -74,6 +88,7 @@ Now, I'm not saying that Worldcoin IS the mark, but the system they are setting 
 
 
 <pre>
+
 </pre>
 ##### WORLDCOIN'S MARKETING
 <pre>
@@ -82,8 +97,8 @@ On top of all of this Worldcoin is being sold to the public as a potential solut
 <pre>
 </pre>
 
----
 <pre>
+
 </pre>
 <blockquote style="text-align: center;">
 "Worldcoin could significantly increase equality of opportunity globally by advancing a future where everyone, regardless of their location, can participate in the global digital economy through universally-accessible decentralized financial and identity infrastructure. As the network grows, so should its utility."
@@ -96,16 +111,17 @@ On top of all of this Worldcoin is being sold to the public as a potential solut
 </blockquote>
 <cite style="text-align: right; display: block;"><a href="https://whitepaper.worldcoin.org/tokenomics" target="_blank"> Worldcoin - Tokenomics</a></cite>
 
----
 
 <pre>
+
 </pre>
 
 What Worldcoin is claiming that it will offer the potential to revolutionize the current systems that mankind have in place for governing ourselves, buying and selling, and making and doing business. But will Worldcoin, or any global economic and identity system made and created by humans really be able to overcome the problems that plague humanity?
 <pre>
+
 </pre>
 
-##### A CO-FOUNDER OF WORLDCOIN
+##### THE CO-FOUNDER OF WORLDCOIN
 <pre>
 </pre>
 
@@ -118,9 +134,9 @@ Fast-forward to today though, and OpenAI is now a profit-driven company in bed w
 If Sam Altman's track record says anything, it's that his ideals, like most others', quickly fall to the wayside once money gets involved. Besides that his company “Worldcoin” even admits that they are making the biometric ID only because they think someone worse than them will make it in the future if they don't.
 
 <pre>
+
 </pre>
 
----
 <pre>
 </pre>
 
@@ -129,31 +145,25 @@ If Sam Altman's track record says anything, it's that his ideals, like most othe
 </blockquote>
 <cite style="text-align: right; display: block;"><a href="https://www.coindesk.com/consensus-magazine/2023/07/24/the-untold-story-of-worldcoins-launch-inside-the-orb/" target="_blank"> Coindesk</a></cite>
 
----
 <pre>
+
 </pre>
 
-They are convinced that the only way forward for humanity, the solution, is a universal global economic and identification system in which you need to allow biometric data to be taken from you in order to buy and sell.
-
-<pre>
-</pre>
----
-
-<pre>
-</pre>
 
 <blockquote style="text-align: center;">
 “I think Worldcoin is the only other path there is.”
 </blockquote>
 <cite style="text-align: right; display: block;"><a href="https://www.coindesk.com/consensus-magazine/2023/07/24/the-untold-story-of-worldcoins-launch-inside-the-orb/" target="_blank">Alex Blania - Co-founder of Worldcoin</a></cite>
 
----
 <pre>
+
+
 </pre>
 
-The conclusion Blania reached, the Co-founder of Worldcoin, is the same conclusion that most other people in the world will arrive at, because they think it's the only way.
+They are convinced that the only way forward for humanity, the solution, is a universal global economic and identification system in which you need to allow biometric data to be taken from you in order to buy and sell and they don't see another way. Alex Blania, the other Co-founder of Worldcoin, also thinks this and this will be the same conclusion that most other people in the world will arrive at, because they think it's the only way.
 
 <pre>
+
 </pre>
 ##### THE SOLUTION
 <pre>
@@ -182,7 +192,8 @@ If you choose the latter please stay in touch and write to us if you want. We'd 
 
 </pre>
 
-Email: reachthewholeworld@gmail.com
+Email: 
+[Contact Info](https://drybones37.github.io./about/)
 
 ---
 
