@@ -4,7 +4,7 @@ date = 2023-08-17T18:34:32+08:00
 draft = false 
 +++
 
-![Worldcoin Logo](https://www.artificialintelligence-news.com/wp-content/uploads/sites/9/2023/08/sec-gary-gensler-ai-artificial-intelligence-legal-law-finance-automation-768x511.jpg)
+![RedScaryImage](https://images.unsplash.com/photo-1604063176436-b463de60413f?q=80&w=2328&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ## What will the mark be like?
 

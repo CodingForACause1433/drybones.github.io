@@ -4,12 +4,14 @@ date = 2023-08-13
 draft = false 
 +++
 
-![Worldcoin Logo](https://image.coinpedia.org/wp-content/uploads/2023/07/24192722/Worldcoin-img.webp)
+![Worldcoin Logo](
+https://worldcoin-company-website.cdn.prismic.io/worldcoin-company-website/ZxFd_IF3NbkBXsKH_World_logo-01-4-.svg?w=2560)
+
 
 ___
 ### WHAT IS WORLD COIN?
 
-Worldcoin is a digital crypto currency made to be usable anywhere in the world which already has 2 million people register for it and has received over one hundred and fifty million dollars in funding backed by some big names in the tech and AI industry. It’s supposed to be an inclusive, universal, secure, crypto currency and it’s linked to a digital ID generated from a user’s biometric data, an ID which is required to have if you want to buy or sell using the currency.
+Worldcoin (now know as world) is a digital crypto currency made to be usable anywhere in the world which already has 2 million people register for it and has received over one hundred and fifty million dollars in funding backed by some big names in the tech and AI industry. It’s supposed to be an inclusive, universal, secure, crypto currency and it’s linked to a digital ID generated from a user’s biometric data, an ID which is required to have if you want to buy or sell using the currency.
 
 This Identifier or for Worldcoin is called a “World ID”. The way you get it is you allow your irises in your eyes to be scanned by a machine they themselves call “The Orb”, an iris biometric data scanning device they made. They then use the biometric data from your irises as a way to verify that you are a unique human.
 

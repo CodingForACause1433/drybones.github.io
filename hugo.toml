@@ -6,7 +6,7 @@ theme = "hello-friend-ng"
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 
-paginate  = 10
+pagination.pagerSize = 10  # new
 rssLimit  = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
@@ -60,6 +60,13 @@ disableHugoGeneratorInject = false
   # Home subtitle of the index page.
   #
   homeSubtitle = "\"...they came to life and stood up on their feet -- a vast army.\""
+
+[services]
+  [services.googleAnalytics]
+    id = "G-L632LHVS6L"
+
+  #[services.disqus]
+  #  shortname = "YOUR_DISQUS_SHORTNAME"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
